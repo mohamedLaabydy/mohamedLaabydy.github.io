@@ -1,0 +1,9 @@
+Morocco outline: Natural Earth 1:10m Admin 0 countries, Morocco POV, v5.1.1. Public domain. https://www.naturalearthdata.com/downloads/10m-cultural-vectors/
+Downloaded: https://naturalearth.s3.amazonaws.com/10m_cultural/ne_10m_admin_0_countries_mar.zip
+Curves are conceptual, not study results. PageRank network is illustrative; node sizes are not computed PageRank scores.
+
+V6: SCOR logo: https://www.scor.com/themes/custom/scor/logo.svg
+OPmobility logo: https://www.opmobility.com/wp-content/uploads/2024/03/logo-opmobility-white-500.png
+Logos remain property of their owners; used to identify professional experience. No endorsement implied.
+quality-loop.svg, document-flow.svg, industrial-vision.svg: original conceptual workflow diagrams, not internal screenshots or measured outputs.
+Design references consulted: bruno-simon.com; joshwcomeau.com; Reddit r/webdesign discussions. No copied assets or code.
